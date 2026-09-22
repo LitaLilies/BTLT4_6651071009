@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#ff9fc9"/><stop offset="1" stop-color="#a98cff"/></linearGradient></defs>
+<circle cx="150" cy="150" r="130" fill="#fff8fc" stroke="url(#g)" stroke-width="12"/>
+<path d="M82 130 Q150 82 218 130 L204 190 Q150 225 96 190Z" fill="#ffb3d4"/>
+<circle cx="120" cy="150" r="10" fill="#694b62"/><circle cx="180" cy="150" r="10" fill="#694b62"/>
+<path d="M135 174 Q150 187 165 174" fill="none" stroke="#9a5b82" stroke-width="7" stroke-linecap="round"/>
+<path d="M150 78 l8 17 19 2-14 13 4 19-17-10-17 10 4-19-14-13 19-2z" fill="#ffe37e"/>
+<text x="150" y="250" text-anchor="middle" font-family="serif" font-size="27" fill="#a0527d">MOMO MAGIC</text>
+</svg>
