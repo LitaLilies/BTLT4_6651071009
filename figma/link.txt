@@ -1,0 +1,37 @@
+Thiết kế Figma (View-only) cho dự án Blog Cá Nhân - Đinh Thị Thảo Duyên
+
+Link chia sẻ (mẫu / mô tả thiết kế):
+https://www.figma.com/file/example-an-nhi-portfolio (link minh họa)
+
+Mô tả wireframe & mockup đã thiết kế:
+
+1. HEADER sticky:
+   - Trái: Logo chữ "TD" trong vòng tròn pastel hồng + tên "Thảo Duyên"
+   - Phải: Nav ngang 5 mục (Trang chủ | Giới thiệu | Dự án | Bài viết | Liên hệ)
+
+2. HERO (full viewport height gần như):
+   - Background gradient pastel + soft pattern
+   - Lời chào lớn đa ngôn ngữ (animation): "Xin chào! / Hello! / こんにちは!"
+   - Ảnh chân dung tròn bên phải
+   - 2 nút CTA: "Xem hồ sơ" (primary) + "Liên hệ tôi" (outline)
+
+3. Giới thiệu:
+   - Ảnh + đoạn văn 2 cột, dùng strong/em/span nhấn mạnh
+
+4. Kỹ năng:
+   - Lưới pill badge bo tròn, hover scale(1.08)
+
+5. Dự án:
+   - 3 card ngang, ảnh trên, nội dung dưới, hover nâng lên
+
+6. Hành trình (Timeline dọc):
+   - Đường kẻ dọc giữa, mốc năm trái/phải xen kẽ
+
+7. Bài viết + Aside:
+   - 2 cột: danh sách bài viết + sidebar mạng xã hội / bài mới
+
+8. Footer:
+   - Social icons + copyright + nút "Về đầu trang"
+
+Màu chủ đạo: #ff69b4 (hồng kawaii), #9c27b0 (tím shoujo), nền #fff5f8
+Font: Quicksand + Pacifico (tiêu đề)
